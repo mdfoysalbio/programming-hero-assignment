@@ -449,3 +449,72 @@
 
 /* section 3 end here  */
 
+
+
+/* section 4 start here  */
+
+
+.section4{
+    max-width: 1140px;
+    height: 313px;
+    margin: 0 auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border-radius: 16px;
+    background-image:linear-gradient( rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)),url(../images/handshake.jpg);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 90px;
+    
+    
+}
+
+.section4 >h1{
+    color: rgb(255, 255, 255);
+    font-family: "Inter";
+    font-size: 32px;
+    font-weight: 700;
+}
+
+.section4 >p{
+    color: rgb(255, 255, 255);
+    font-family: "Inter";
+    font-size: 16px;
+    font-weight: 400;
+    margin-top: -8px;
+}
+
+.section4 >.section4div{
+    margin-top: 12px;
+    border: 1px solid rgba(13, 19, 33, 0.15);
+}
+
+.section4div >input[type="text"]{
+    font-family: "Inter";
+    width: 548px;
+    height: 52px;
+    border-radius: 8px;
+    padding-left: 30px;
+    color: rgba(13, 19, 33, 0.4);
+    font-size: 16px;
+    font-weight: 400;
+    /* margin-top: 10px; */
+}
+
+.section4div >input[type="submit"]{
+    width: 120px;
+    font-family: "Inter";
+    height: 57px;
+    border-radius: 8px;
+    color: rgb(13, 19, 33);
+    font-size: 18px;
+    font-weight: 600;
+    margin-left: 6px;
+
+}
+
+
+/* section 4 end here  */
