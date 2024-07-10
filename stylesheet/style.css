@@ -304,3 +304,148 @@
 
 
 /* Section 2 end here  */
+
+
+
+/* section 3 start here  */
+
+.section3{
+    max-width: 1140px;
+    margin: 0 auto;
+    margin-top: 80px;
+}
+
+.section3-div1{
+   text-align: center;
+   max-width: 946px;
+   margin: 0 auto;
+   padding-left: 60px;
+   padding-right: 60px;
+}
+
+.section3-div1 >h1{
+    color: rgb(13, 19, 33);
+    font-family: "Inter";
+    font-size: 32px;
+    font-weight: 800;
+}
+
+.section3-div1 >p{
+    opacity: 0.9;
+    font-family: "Inter";
+    font-size: 16px;
+    font-weight: 400;
+    color: rgb(13, 19, 33);
+    margin-top: 35px;
+}
+
+
+.section3-div2{
+    display: flex;
+    justify-content: space-evenly;
+    gap: 82px;
+    margin-top: 70px;
+}
+
+.section3-div2-sdiv1{
+    border-radius: 16px;
+    background: rgba(255, 76, 30, 0.05);
+    padding: 40px;
+    
+}
+
+.section3-div2-sdiv1 >h1{
+    color: rgb(13, 19, 33);
+    font-family: "Inter";
+    font-size: 24px;
+    font-weight: 800;
+}
+
+.section3-div2-sdiv1 >p{
+    color: rgb(13, 19, 33);
+    font-family: "Inter";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5em;
+
+}
+
+
+.section3-div2-sdiv1 >a{
+    color: rgb(13, 19, 33);
+    font-family: "Inter";
+    font-size: 16px;
+    font-weight: 700;
+}
+
+
+
+.section3-div2-sdiv2{
+    border-radius: 16px;
+    background:  rgba(0, 76, 232, 0.05);
+    padding: 40px;
+    
+}
+
+.section3-div2-sdiv2 >h1{
+    color: rgb(13, 19, 33);
+    font-family: "Inter";
+    font-size: 24px;
+    font-weight: 800;
+}
+
+.section3-div2-sdiv2 >p{
+    color: rgb(13, 19, 33);
+    font-family: "Inter";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5em;
+
+}
+
+
+.section3-div2-sdiv2 >a{
+    color: rgb(13, 19, 33);
+    font-family: "Inter";
+    font-size: 16px;
+    font-weight: 700;
+}
+
+
+
+
+.section3-div2-sdiv3{
+    border-radius: 16px;
+    background: rgba(255, 223, 0, 0.05);
+    padding: 40px;
+    
+}
+
+.section3-div2-sdiv3 >h1{
+    color: rgb(13, 19, 33);
+    font-family: "Inter";
+    font-size: 24px;
+    font-weight: 800;
+}
+
+.section3-div2-sdiv3 >p{
+    color: rgb(13, 19, 33);
+    font-family: "Inter";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5em;
+
+}
+
+
+.section3-div2-sdiv3 >a{
+    color: rgb(13, 19, 33);
+    font-family: "Inter";
+    font-size: 16px;
+    font-weight: 700;
+}
+
+
+
+/* section 3 end here  */
+
